@@ -94,11 +94,11 @@ export const DEFAULT_USERS = [
 // Company information
 export const COMPANY_INFO = {
   companyName: 'Lababil Solution',
-  address: 'Jakarta, Indonesia',
-  phone: '+62 21-1234-5678',
-  email: 'info@lababilsolution.com',
-  website: 'www.lababilsolution.com',
-  logo: '/logo.png',
+  address: 'Jambi, Indonesia',
+  phone: '+62 823-1223-5675, +62 899-7499-994',
+  email: 'lababil2307@gmail.com',
+  website: 'www.lababil.biz.id',
+  logo: '/LababilLogo.js',
   bankAccount: 'BCA 7870598488 a/n A KHOLID'
 };
 
@@ -140,4 +140,5 @@ export const UI_THEME = {
     header: 'bg-gradient-to-r from-blue-50 via-white to-blue-50'
   }
 };
+
 
